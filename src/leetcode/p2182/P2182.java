@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.p2182;
 
 public class P2182 {
     public String repeatLimitedString(String s, int repeatLimit) {
@@ -29,10 +29,6 @@ public class P2182 {
             }
         }
         return sb.toString();
-    }
-
-    public static void main(String[] args) {
-
     }
 }
 

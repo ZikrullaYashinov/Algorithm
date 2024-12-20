@@ -1,36 +1,8 @@
-package leetcode;
+package leetcode.p212;
 
 import java.util.ArrayList;
 import java.util.List;
 
-class TrieNode {
-    public boolean isEnd;
-    public TrieNode[] children;
-
-    public TrieNode() {
-        isEnd = false;
-        children = new TrieNode[26];
-    }
-}
-
-class Trie {
-    TrieNode root;
-
-    public Trie() {
-        root = new TrieNode();
-    }
-
-    public void insert(String word) {
-        TrieNode temp = root;
-        for (int i = 0; i < word.length(); i++) {
-            char c = word.charAt(i);
-            if (temp.children[c - 'a'] == null)
-                temp.children[c - 'a'] = new TrieNode();
-            temp = temp.children[c - 'a'];
-        }
-        temp.isEnd = true;
-    }
-}
 
 public class P212 {
     public List<String> findWords(char[][] board, String[] words) {
