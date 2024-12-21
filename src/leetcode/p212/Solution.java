@@ -3,8 +3,7 @@ package leetcode.p212;
 import java.util.ArrayList;
 import java.util.List;
 
-
-public class P212 {
+public class Solution {
     public List<String> findWords(char[][] board, String[] words) {
         List<String> ans = new ArrayList<>();
 
@@ -41,7 +40,7 @@ public class P212 {
     }
 
     public static void main(String[] args) {
-        System.out.println(new P212().findWords(
+        System.out.println(new Solution().findWords(
                 new char[][]{
                         {'o', 'a', 'a', 'n'},
                         {'e', 't', 'a', 'e'},

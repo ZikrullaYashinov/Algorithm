@@ -1,6 +1,6 @@
 package leetcode.p2182;
 
-public class P2182 {
+public class Solution {
     public String repeatLimitedString(String s, int repeatLimit) {
         int[] arr = new int[26];
         byte[] bytes = s.getBytes();
