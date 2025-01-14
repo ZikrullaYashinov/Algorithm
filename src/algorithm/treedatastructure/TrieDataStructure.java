@@ -1,4 +1,4 @@
-package algorithm;
+package algorithm.treedatastructure;
 
 class TrieNode {
     public boolean isEnd;

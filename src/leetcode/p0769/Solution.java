@@ -1,8 +1,8 @@
-package leetcode.p769;
+package leetcode.p0769;
 
 import java.util.Arrays;
 
-public class P769 {
+public class Solution {
     public int maxChunksToSorted(int[] arr) {
         int n = arr.length;
         int[] positions = new int[11];
@@ -27,7 +27,7 @@ public class P769 {
     }
 
     public static void main(String[] args) {
-        System.out.println(new P769().maxChunksToSorted(new int[]{4, 3, 2, 1, 0}));
-        System.out.println(new P769().maxChunksToSorted(new int[]{1, 0, 2, 3, 4}));
+        System.out.println(new Solution().maxChunksToSorted(new int[]{4, 3, 2, 1, 0}));
+        System.out.println(new Solution().maxChunksToSorted(new int[]{1, 0, 2, 3, 4}));
     }
 }

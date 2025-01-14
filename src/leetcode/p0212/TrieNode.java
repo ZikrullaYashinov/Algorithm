@@ -1,4 +1,4 @@
-package leetcode.p212;
+package leetcode.p0212;
 
 class TrieNode {
     public boolean isEnd;
