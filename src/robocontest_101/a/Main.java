@@ -1,4 +1,4 @@
-package rebocontest_101.a;
+package robocontest_101.a;
 
 import java.io.*;
 import java.util.*;
