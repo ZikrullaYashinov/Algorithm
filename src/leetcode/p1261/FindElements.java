@@ -1,8 +1,7 @@
 package leetcode.p1261;
 
 
-import java.util.HashMap;
-import java.util.Map;
+import java.util.BitSet;
 
 class TreeNode {
     int val;
@@ -24,7 +23,7 @@ class TreeNode {
 }
 
 public class FindElements {
-    Map<Integer, Boolean> map = new HashMap<>();
+    BitSet bitSet = new BitSet();
 
     public FindElements(TreeNode root) {
         root.val = 0;
@@ -33,7 +32,7 @@ public class FindElements {
 
     private void initTree(TreeNode root) {
         if (root == null) return;
-        map.put(root.val, true);
+        bitSet.set(root.val);
         if (root.left != null) {
             root.left.val = root.val * 2 + 1;
             initTree(root.left);
@@ -45,7 +44,7 @@ public class FindElements {
     }
 
     public boolean find(int target) {
-        return map.containsKey(target);
+        return bitSet.get(target);
     }
 }
 
