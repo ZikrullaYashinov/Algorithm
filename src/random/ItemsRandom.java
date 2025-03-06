@@ -6,13 +6,13 @@ public class ItemsRandom {
 
     public static void main(String[] args) {
         List<String> list = new ArrayList<>();
-        list.add("Sardor");
-        list.add("Valixon");
+        list.add("Sardor  ");
+        list.add("Valixon ");
         list.add("Zikrulla");
         list.add("Nodirbek");
-        list.add("Ibrat");
-        list.add("Mirshod");
-        list.add("Ixtiyor");
+        list.add("Ibratbek");
+        list.add("Mirshod ");
+        list.add("Ixtiyor ");
         list.add("Quvondiq");
 
         Collections.shuffle(list);
