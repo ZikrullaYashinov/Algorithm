@@ -1,4 +1,4 @@
-package acmp.p120;
+package acmp.p0120;
 
 import java.util.Scanner;
 
