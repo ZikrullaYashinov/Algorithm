@@ -1,4 +1,4 @@
-package leetcode.p0952;
+package acmp.p0952;
 
 import java.util.Scanner;
 

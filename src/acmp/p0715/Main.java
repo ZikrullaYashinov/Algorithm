@@ -1,4 +1,4 @@
-package leetcode.p0715;
+package acmp.p0715;
 
 import java.util.Scanner;
 

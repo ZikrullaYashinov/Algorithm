@@ -1,4 +1,4 @@
-package leetcode.p0340;
+package acmp.p0340;
 
 import java.util.Arrays;
 import java.util.Scanner;
