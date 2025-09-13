@@ -1,10 +1,10 @@
-//package problems.acmp.p0775;
-//
-//import java.math.BigInteger;
-//import java.util.Scanner;
-//
-//public class useful.stringtokenizer.Main {
-//    public static void main(String[] args) {
+package problems.acmp.p0775;
+
+import java.math.BigInteger;
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
 //        Scanner sc = new Scanner(System.in);
 //        BigInteger n = new BigInteger(sc.next());
 //        BigInteger m = new BigInteger(sc.next());
@@ -17,8 +17,8 @@
 //                    cur = cur.multiply(BigInteger.valueOf(3)).add(BigInteger.ONE);
 //                }
 //        }
-//    }
-//
+    }
+
 //    private static BigInteger match(BigInteger n, BigInteger m, BigInteger cur) {
 //
 //
@@ -26,4 +26,4 @@
 //
 //        }
 //    }
-//}
+}
