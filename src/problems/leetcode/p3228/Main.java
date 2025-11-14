@@ -3,7 +3,6 @@ package problems.leetcode.p3228;
 class Solution {
     public int maxOperations(String s) {
         int sum = 0;
-        int temp = 0;
         int count = 0;
         boolean flag = true;
         for (char c : s.toCharArray()) {
@@ -11,10 +10,8 @@ class Solution {
                 count++;
                 flag = true;
             } else if (flag) {
-                temp += count;
-                sum += temp;
+                sum += count;
                 flag = false;
-                count = 0;
             }
         }
 
