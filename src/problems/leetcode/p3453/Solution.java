@@ -37,10 +37,6 @@ class Solution {
         return predictY;
     }
 
-    private double round(double value) {
-        return Math.round(value * 100_000) / 100_000.0;
-    }
-
     public double separateEqual(int[][] squares, double y) {
         double sum = 0;
         for (int[] square : squares) {
