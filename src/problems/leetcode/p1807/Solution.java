@@ -6,7 +6,7 @@ import java.util.Map;
 
 class Solution {
     public String evaluate(String s, List<List<String>> knowledge) {
-        Map<String, String> map = new HashMap<>();
+        Map<String, String> map = new HashMap<>(knowledge.size());
 
         for (List<String> k : knowledge)
             map.put(k.get(0), k.get(1));
