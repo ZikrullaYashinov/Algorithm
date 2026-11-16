@@ -1,0 +1,1027 @@
+[
+  {
+    "id": 21951,
+    "letterCyrill": "Tест",
+    "letterLatin": "Test"
+  },
+  {
+    "id": 3654,
+    "letterCyrill": "[ц]\\b",
+    "letterLatin": "s"
+  },
+  {
+    "id": 3653,
+    "letterCyrill": "[Ц]\\b",
+    "letterLatin": "S"
+  },
+  {
+    "id": 3651,
+    "letterCyrill": "\\b[ц]",
+    "letterLatin": "s"
+  },
+  {
+    "id": 3652,
+    "letterCyrill": "\\b[Ц]",
+    "letterLatin": "S"
+  },
+  {
+    "id": 4462951,
+    "letterCyrill": "ЧЕКСИЗ",
+    "letterLatin": "ÇEKSIZ"
+  },
+  {
+    "id": 4467002,
+    "letterCyrill": "КОНСТИТУЦИЯ",
+    "letterLatin": "KONSTITUTSIYA"
+  },
+  {
+    "id": 4454309,
+    "letterCyrill": "Доцент",
+    "letterLatin": "Dotsent"
+  },
+  {
+    "id": 4454305,
+    "letterCyrill": "ДОЦЕНТ",
+    "letterLatin": "DOTSENT"
+  },
+  {
+    "id": 4454307,
+    "letterCyrill": "ация",
+    "letterLatin": "atsiya"
+  },
+  {
+    "id": 4454308,
+    "letterCyrill": "АЦИЯ",
+    "letterLatin": "ATSIYA"
+  },
+  {
+    "id": 4467003,
+    "letterCyrill": "Конституция",
+    "letterLatin": "Konstitutsiya"
+  },
+  {
+    "id": 4467001,
+    "letterCyrill": "конституция",
+    "letterLatin": "konstitutsiya"
+  },
+  {
+    "id": 4454306,
+    "letterCyrill": "доцент",
+    "letterLatin": "dotsent"
+  },
+  {
+    "id": 83454,
+    "letterCyrill": "(\\p{Lu})Я",
+    "letterLatin": "$1YA"
+  },
+  {
+    "id": 1385,
+    "letterCyrill": "исҳоқ",
+    "letterLatin": "is'hoq"
+  },
+  {
+    "id": 1370,
+    "letterCyrill": "Я(\\p{Lu})",
+    "letterLatin": "YA$1"
+  },
+  {
+    "id": 83455,
+    "letterCyrill": "(\\p{Lu})Ё",
+    "letterLatin": "$1YO"
+  },
+  {
+    "id": 83452,
+    "letterCyrill": "Ю(\\p{Lu})",
+    "letterLatin": "YU$1"
+  },
+  {
+    "id": 83453,
+    "letterCyrill": "Ё(\\p{Lu})",
+    "letterLatin": "YO$1"
+  },
+  {
+    "id": 1384,
+    "letterCyrill": "ўъ",
+    "letterLatin": "ö"
+  },
+  {
+    "id": 1383,
+    "letterCyrill": "ўът",
+    "letterLatin": "öt"
+  },
+  {
+    "id": 4589250,
+    "letterCyrill": "ўЪ",
+    "letterLatin": "ö"
+  },
+  {
+    "id": 4589200,
+    "letterCyrill": "Ў[Ъъ]",
+    "letterLatin": "Ö"
+  },
+  {
+    "id": 1571,
+    "letterCyrill": "пь",
+    "letterLatin": "p"
+  },
+  {
+    "id": 1280,
+    "letterCyrill": "Ҳе",
+    "letterLatin": "He"
+  },
+  {
+    "id": 1281,
+    "letterCyrill": "ҳе",
+    "letterLatin": "he"
+  },
+  {
+    "id": 1282,
+    "letterCyrill": "Че",
+    "letterLatin": "Çe"
+  },
+  {
+    "id": 1283,
+    "letterCyrill": "че",
+    "letterLatin": "çe"
+  },
+  {
+    "id": 1598,
+    "letterCyrill": "ЧЕ",
+    "letterLatin": "ÇE"
+  },
+  {
+    "id": 1284,
+    "letterCyrill": "Ше",
+    "letterLatin": "Şe"
+  },
+  {
+    "id": 1285,
+    "letterCyrill": "ше",
+    "letterLatin": "şe"
+  },
+  {
+    "id": 1551,
+    "letterCyrill": "ль",
+    "letterLatin": "l"
+  },
+  {
+    "id": 1553,
+    "letterCyrill": "Ль",
+    "letterLatin": "L"
+  },
+  {
+    "id": 1552,
+    "letterCyrill": "ЛЬ",
+    "letterLatin": "L"
+  },
+  {
+    "id": 1554,
+    "letterCyrill": "РЬ",
+    "letterLatin": "R"
+  },
+  {
+    "id": 1555,
+    "letterCyrill": "Рь",
+    "letterLatin": "R"
+  },
+  {
+    "id": 1556,
+    "letterCyrill": "рь",
+    "letterLatin": "r"
+  },
+  {
+    "id": 1557,
+    "letterCyrill": "НЬ",
+    "letterLatin": "N"
+  },
+  {
+    "id": 1558,
+    "letterCyrill": "Нь",
+    "letterLatin": "N"
+  },
+  {
+    "id": 1559,
+    "letterCyrill": "нь",
+    "letterLatin": "n"
+  },
+  {
+    "id": 1560,
+    "letterCyrill": "ДЬ",
+    "letterLatin": "D"
+  },
+  {
+    "id": 1561,
+    "letterCyrill": "Дь",
+    "letterLatin": "D"
+  },
+  {
+    "id": 1562,
+    "letterCyrill": "дь",
+    "letterLatin": "d"
+  },
+  {
+    "id": 1564,
+    "letterCyrill": "Вь",
+    "letterLatin": "V"
+  },
+  {
+    "id": 1565,
+    "letterCyrill": "вь",
+    "letterLatin": "v"
+  },
+  {
+    "id": 1566,
+    "letterCyrill": "БЬ",
+    "letterLatin": "B"
+  },
+  {
+    "id": 1567,
+    "letterCyrill": "Бь",
+    "letterLatin": "B"
+  },
+  {
+    "id": 1568,
+    "letterCyrill": "бь",
+    "letterLatin": "b"
+  },
+  {
+    "id": 1569,
+    "letterCyrill": "ПЬ",
+    "letterLatin": "P"
+  },
+  {
+    "id": 1570,
+    "letterCyrill": "Пь",
+    "letterLatin": "P"
+  },
+  {
+    "id": 1572,
+    "letterCyrill": "СЬ",
+    "letterLatin": "S"
+  },
+  {
+    "id": 1573,
+    "letterCyrill": "Сь",
+    "letterLatin": "S"
+  },
+  {
+    "id": 1574,
+    "letterCyrill": "сь",
+    "letterLatin": "s"
+  },
+  {
+    "id": 1578,
+    "letterCyrill": "БЕ",
+    "letterLatin": "BE"
+  },
+  {
+    "id": 1579,
+    "letterCyrill": "ВЕ",
+    "letterLatin": "VE"
+  },
+  {
+    "id": 1580,
+    "letterCyrill": "ГЕ",
+    "letterLatin": "GE"
+  },
+  {
+    "id": 1582,
+    "letterCyrill": "ДЕ",
+    "letterLatin": "DE"
+  },
+  {
+    "id": 1583,
+    "letterCyrill": "КЕ",
+    "letterLatin": "KE"
+  },
+  {
+    "id": 1584,
+    "letterCyrill": "ЖЕ",
+    "letterLatin": "JE"
+  },
+  {
+    "id": 1585,
+    "letterCyrill": "ЗЕ",
+    "letterLatin": "ZE"
+  },
+  {
+    "id": 1586,
+    "letterCyrill": "ЙЕ",
+    "letterLatin": "YE"
+  },
+  {
+    "id": 1587,
+    "letterCyrill": "ҚЕ",
+    "letterLatin": "QE"
+  },
+  {
+    "id": 1588,
+    "letterCyrill": "ЛЕ",
+    "letterLatin": "LE"
+  },
+  {
+    "id": 1589,
+    "letterCyrill": "МЕ",
+    "letterLatin": "ME"
+  },
+  {
+    "id": 1590,
+    "letterCyrill": "НЕ",
+    "letterLatin": "NE"
+  },
+  {
+    "id": 1591,
+    "letterCyrill": "ПЕ",
+    "letterLatin": "PE"
+  },
+  {
+    "id": 1592,
+    "letterCyrill": "РЕ",
+    "letterLatin": "RE"
+  },
+  {
+    "id": 1593,
+    "letterCyrill": "СЕ",
+    "letterLatin": "SE"
+  },
+  {
+    "id": 1594,
+    "letterCyrill": "ТЕ",
+    "letterLatin": "TE"
+  },
+  {
+    "id": 1595,
+    "letterCyrill": "ФЕ",
+    "letterLatin": "FE"
+  },
+  {
+    "id": 1596,
+    "letterCyrill": "XE",
+    "letterLatin": "ХЕ"
+  },
+  {
+    "id": 1597,
+    "letterCyrill": "ҲЕ",
+    "letterLatin": "HE"
+  },
+  {
+    "id": 1600,
+    "letterCyrill": "ЦЕ",
+    "letterLatin": "SE"
+  },
+  {
+    "id": 1223,
+    "letterCyrill": "Ғе",
+    "letterLatin": "Ğe"
+  },
+  {
+    "id": 1224,
+    "letterCyrill": "ғе",
+    "letterLatin": "ğe"
+  },
+  {
+    "id": 1599,
+    "letterCyrill": "ШЕ",
+    "letterLatin": "ŞE"
+  },
+  {
+    "id": 1575,
+    "letterCyrill": "ШЬ",
+    "letterLatin": "Ş"
+  },
+  {
+    "id": 1576,
+    "letterCyrill": "Шь",
+    "letterLatin": "Ş"
+  },
+  {
+    "id": 28401,
+    "letterCyrill": "це",
+    "letterLatin": "se"
+  },
+  {
+    "id": 1581,
+    "letterCyrill": "ҒЕ",
+    "letterLatin": "ĞE"
+  },
+  {
+    "id": 1377,
+    "letterCyrill": "ЧЬ",
+    "letterLatin": "Ç"
+  },
+  {
+    "id": 1378,
+    "letterCyrill": "Чь",
+    "letterLatin": "Ç"
+  },
+  {
+    "id": 1379,
+    "letterCyrill": "чь",
+    "letterLatin": "ç"
+  },
+  {
+    "id": 1577,
+    "letterCyrill": "шь",
+    "letterLatin": "ş"
+  },
+  {
+    "id": 4588950,
+    "letterCyrill": "ғЕ",
+    "letterLatin": "ğE"
+  },
+  {
+    "id": 4589000,
+    "letterCyrill": "чЕ",
+    "letterLatin": "çE"
+  },
+  {
+    "id": 4589050,
+    "letterCyrill": "шЕ",
+    "letterLatin": "şE"
+  },
+  {
+    "id": 4589100,
+    "letterCyrill": "чЬ",
+    "letterLatin": "ç"
+  },
+  {
+    "id": 4589150,
+    "letterCyrill": "шЬ",
+    "letterLatin": "ş"
+  },
+  {
+    "id": 1374,
+    "letterCyrill": "Ть",
+    "letterLatin": "T"
+  },
+  {
+    "id": 1375,
+    "letterCyrill": "ТЬ",
+    "letterLatin": "T"
+  },
+  {
+    "id": 1376,
+    "letterCyrill": "ть",
+    "letterLatin": "t"
+  },
+  {
+    "id": 1563,
+    "letterCyrill": "ВЬ",
+    "letterLatin": "V"
+  },
+  {
+    "id": 1380,
+    "letterCyrill": "МЬ",
+    "letterLatin": "M"
+  },
+  {
+    "id": 1381,
+    "letterCyrill": "Мь",
+    "letterLatin": "M"
+  },
+  {
+    "id": 1382,
+    "letterCyrill": "мь",
+    "letterLatin": "m"
+  },
+  {
+    "id": 1217,
+    "letterCyrill": "Бе",
+    "letterLatin": "Be"
+  },
+  {
+    "id": 1218,
+    "letterCyrill": "бе",
+    "letterLatin": "be"
+  },
+  {
+    "id": 1219,
+    "letterCyrill": "Ве",
+    "letterLatin": "Ve"
+  },
+  {
+    "id": 1220,
+    "letterCyrill": "ве",
+    "letterLatin": "ve"
+  },
+  {
+    "id": 1221,
+    "letterCyrill": "Ге",
+    "letterLatin": "Ge"
+  },
+  {
+    "id": 1222,
+    "letterCyrill": "ге",
+    "letterLatin": "ge"
+  },
+  {
+    "id": 1225,
+    "letterCyrill": "Де",
+    "letterLatin": "De"
+  },
+  {
+    "id": 1251,
+    "letterCyrill": "де",
+    "letterLatin": "de"
+  },
+  {
+    "id": 1252,
+    "letterCyrill": "Же",
+    "letterLatin": "Je"
+  },
+  {
+    "id": 1253,
+    "letterCyrill": "же",
+    "letterLatin": "je"
+  },
+  {
+    "id": 1254,
+    "letterCyrill": "Зе",
+    "letterLatin": "Ze"
+  },
+  {
+    "id": 1255,
+    "letterCyrill": "зе",
+    "letterLatin": "ze"
+  },
+  {
+    "id": 1256,
+    "letterCyrill": "Йе",
+    "letterLatin": "Ye"
+  },
+  {
+    "id": 1257,
+    "letterCyrill": "йе",
+    "letterLatin": "ye"
+  },
+  {
+    "id": 1258,
+    "letterCyrill": "Ке",
+    "letterLatin": "Ke"
+  },
+  {
+    "id": 1259,
+    "letterCyrill": "ке",
+    "letterLatin": "ke"
+  },
+  {
+    "id": 1260,
+    "letterCyrill": "Қе",
+    "letterLatin": "Qe"
+  },
+  {
+    "id": 1261,
+    "letterCyrill": "қе",
+    "letterLatin": "qe"
+  },
+  {
+    "id": 1262,
+    "letterCyrill": "Ле",
+    "letterLatin": "Le"
+  },
+  {
+    "id": 1263,
+    "letterCyrill": "ле",
+    "letterLatin": "le"
+  },
+  {
+    "id": 1264,
+    "letterCyrill": "Ме",
+    "letterLatin": "Me"
+  },
+  {
+    "id": 1266,
+    "letterCyrill": "Не",
+    "letterLatin": "Ne"
+  },
+  {
+    "id": 1267,
+    "letterCyrill": "не",
+    "letterLatin": "ne"
+  },
+  {
+    "id": 1268,
+    "letterCyrill": "Пе",
+    "letterLatin": "Pe"
+  },
+  {
+    "id": 1269,
+    "letterCyrill": "пе",
+    "letterLatin": "pe"
+  },
+  {
+    "id": 1270,
+    "letterCyrill": "Ре",
+    "letterLatin": "Re"
+  },
+  {
+    "id": 1271,
+    "letterCyrill": "ре",
+    "letterLatin": "re"
+  },
+  {
+    "id": 1272,
+    "letterCyrill": "Се",
+    "letterLatin": "Se"
+  },
+  {
+    "id": 1273,
+    "letterCyrill": "се",
+    "letterLatin": "se"
+  },
+  {
+    "id": 1265,
+    "letterCyrill": "ме",
+    "letterLatin": "me"
+  },
+  {
+    "id": 1274,
+    "letterCyrill": "Те",
+    "letterLatin": "Te"
+  },
+  {
+    "id": 1275,
+    "letterCyrill": "те",
+    "letterLatin": "te"
+  },
+  {
+    "id": 1276,
+    "letterCyrill": "Фе",
+    "letterLatin": "Fe"
+  },
+  {
+    "id": 1277,
+    "letterCyrill": "фе",
+    "letterLatin": "fe"
+  },
+  {
+    "id": 1278,
+    "letterCyrill": "Хе",
+    "letterLatin": "Xe"
+  },
+  {
+    "id": 1279,
+    "letterCyrill": "хе",
+    "letterLatin": "xe"
+  },
+  {
+    "id": 1215,
+    "letterCyrill": "я",
+    "letterLatin": "ya"
+  },
+  {
+    "id": 1214,
+    "letterCyrill": "Я",
+    "letterLatin": "Ya"
+  },
+  {
+    "id": 1213,
+    "letterCyrill": "ю",
+    "letterLatin": "yu"
+  },
+  {
+    "id": 1166,
+    "letterCyrill": "ё",
+    "letterLatin": "yo"
+  },
+  {
+    "id": 1212,
+    "letterCyrill": "Ю",
+    "letterLatin": "Yu"
+  },
+  {
+    "id": 1165,
+    "letterCyrill": "Ё",
+    "letterLatin": "Yo"
+  },
+  {
+    "id": 1164,
+    "letterCyrill": "е",
+    "letterLatin": "ye"
+  },
+  {
+    "id": 1163,
+    "letterCyrill": "Е",
+    "letterLatin": "Ye"
+  },
+  {
+    "id": 1188,
+    "letterCyrill": "Р",
+    "letterLatin": "R"
+  },
+  {
+    "id": 1189,
+    "letterCyrill": "р",
+    "letterLatin": "r"
+  },
+  {
+    "id": 1190,
+    "letterCyrill": "С",
+    "letterLatin": "S"
+  },
+  {
+    "id": 1191,
+    "letterCyrill": "с",
+    "letterLatin": "s"
+  },
+  {
+    "id": 1192,
+    "letterCyrill": "Т",
+    "letterLatin": "T"
+  },
+  {
+    "id": 1193,
+    "letterCyrill": "т",
+    "letterLatin": "t"
+  },
+  {
+    "id": 1194,
+    "letterCyrill": "о",
+    "letterLatin": "o"
+  },
+  {
+    "id": 1195,
+    "letterCyrill": "У",
+    "letterLatin": "U"
+  },
+  {
+    "id": 1196,
+    "letterCyrill": "у",
+    "letterLatin": "u"
+  },
+  {
+    "id": 1199,
+    "letterCyrill": "Ф",
+    "letterLatin": "F"
+  },
+  {
+    "id": 1200,
+    "letterCyrill": "ф",
+    "letterLatin": "f"
+  },
+  {
+    "id": 1201,
+    "letterCyrill": "Х",
+    "letterLatin": "X"
+  },
+  {
+    "id": 1202,
+    "letterCyrill": "х",
+    "letterLatin": "x"
+  },
+  {
+    "id": 1203,
+    "letterCyrill": "Ҳ",
+    "letterLatin": "H"
+  },
+  {
+    "id": 1204,
+    "letterCyrill": "ҳ",
+    "letterLatin": "h"
+  },
+  {
+    "id": 1209,
+    "letterCyrill": "ъ",
+    "letterLatin": "’"
+  },
+  {
+    "id": 1210,
+    "letterCyrill": "Э",
+    "letterLatin": "E"
+  },
+  {
+    "id": 1211,
+    "letterCyrill": "э",
+    "letterLatin": "e"
+  },
+  {
+    "id": 1216,
+    "letterCyrill": "б",
+    "letterLatin": "b"
+  },
+  {
+    "id": 1169,
+    "letterCyrill": "З",
+    "letterLatin": "Z"
+  },
+  {
+    "id": 1177,
+    "letterCyrill": "Қ",
+    "letterLatin": "Q"
+  },
+  {
+    "id": 1175,
+    "letterCyrill": "К",
+    "letterLatin": "K"
+  },
+  {
+    "id": 1168,
+    "letterCyrill": "ж",
+    "letterLatin": "j"
+  },
+  {
+    "id": 1167,
+    "letterCyrill": "Ж",
+    "letterLatin": "J"
+  },
+  {
+    "id": 1157,
+    "letterCyrill": "Г",
+    "letterLatin": "G"
+  },
+  {
+    "id": 1751,
+    "letterCyrill": "Ъ",
+    "letterLatin": "’"
+  },
+  {
+    "id": 1176,
+    "letterCyrill": "к",
+    "letterLatin": "k"
+  },
+  {
+    "id": 1174,
+    "letterCyrill": "й",
+    "letterLatin": "y"
+  },
+  {
+    "id": 1173,
+    "letterCyrill": "Й",
+    "letterLatin": "Y"
+  },
+  {
+    "id": 1152,
+    "letterCyrill": "А",
+    "letterLatin": "A"
+  },
+  {
+    "id": 1156,
+    "letterCyrill": "в",
+    "letterLatin": "v"
+  },
+  {
+    "id": 1155,
+    "letterCyrill": "В",
+    "letterLatin": "V"
+  },
+  {
+    "id": 1162,
+    "letterCyrill": "д",
+    "letterLatin": "d"
+  },
+  {
+    "id": 1161,
+    "letterCyrill": "Д",
+    "letterLatin": "D"
+  },
+  {
+    "id": 1158,
+    "letterCyrill": "г",
+    "letterLatin": "g"
+  },
+  {
+    "id": 1159,
+    "letterCyrill": "Ғ",
+    "letterLatin": "Ğ"
+  },
+  {
+    "id": 1180,
+    "letterCyrill": "л",
+    "letterLatin": "l"
+  },
+  {
+    "id": 1182,
+    "letterCyrill": "м",
+    "letterLatin": "m"
+  },
+  {
+    "id": 1183,
+    "letterCyrill": "Н",
+    "letterLatin": "N"
+  },
+  {
+    "id": 1184,
+    "letterCyrill": "н",
+    "letterLatin": "n"
+  },
+  {
+    "id": 1185,
+    "letterCyrill": "О",
+    "letterLatin": "O"
+  },
+  {
+    "id": 1186,
+    "letterCyrill": "П",
+    "letterLatin": "P"
+  },
+  {
+    "id": 1187,
+    "letterCyrill": "п",
+    "letterLatin": "p"
+  },
+  {
+    "id": 1170,
+    "letterCyrill": "з",
+    "letterLatin": "z"
+  },
+  {
+    "id": 1287,
+    "letterCyrill": "Ц",
+    "letterLatin": "S"
+  },
+  {
+    "id": 1288,
+    "letterCyrill": "ц",
+    "letterLatin": "s"
+  },
+  {
+    "id": 1178,
+    "letterCyrill": "қ",
+    "letterLatin": "q"
+  },
+  {
+    "id": 1160,
+    "letterCyrill": "ғ",
+    "letterLatin": "ğ"
+  },
+  {
+    "id": 1179,
+    "letterCyrill": "Л",
+    "letterLatin": "L"
+  },
+  {
+    "id": 1197,
+    "letterCyrill": "Ў",
+    "letterLatin": "Ö"
+  },
+  {
+    "id": 1198,
+    "letterCyrill": "ў",
+    "letterLatin": "ö"
+  },
+  {
+    "id": 1205,
+    "letterCyrill": "Ч",
+    "letterLatin": "Ç"
+  },
+  {
+    "id": 1206,
+    "letterCyrill": "ч",
+    "letterLatin": "ç"
+  },
+  {
+    "id": 1207,
+    "letterCyrill": "Ш",
+    "letterLatin": "Ş"
+  },
+  {
+    "id": 1208,
+    "letterCyrill": "ш",
+    "letterLatin": "ş"
+  },
+  {
+    "id": 1181,
+    "letterCyrill": "М",
+    "letterLatin": "M"
+  },
+  {
+    "id": 1154,
+    "letterCyrill": "Б",
+    "letterLatin": "B"
+  },
+  {
+    "id": 1153,
+    "letterCyrill": "а",
+    "letterLatin": "a"
+  },
+  {
+    "id": 1172,
+    "letterCyrill": "и",
+    "letterLatin": "i"
+  },
+  {
+    "id": 1171,
+    "letterCyrill": "И",
+    "letterLatin": "I"
+  },
+  {
+    "id": 21952,
+    "letterCyrill": "Ш(\\p{Lu})",
+    "letterLatin": "Ş$1"
+  },
+  {
+    "id": 4447601,
+    "letterCyrill": "(\\p{Lu})Ч",
+    "letterLatin": "$1Ç"
+  },
+  {
+    "id": 83451,
+    "letterCyrill": "Ч(\\p{Lu})",
+    "letterLatin": "Ç$1"
+  },
+  {
+    "id": 21953,
+    "letterCyrill": "(\\p{Lu})Ш",
+    "letterLatin": "$1Ş"
+  }
+]
