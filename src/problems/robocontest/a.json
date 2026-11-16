@@ -27,7 +27,7 @@
   {
     "id": 4462951,
     "letterCyrill": "ЧЕКСИЗ",
-    "letterLatin": "ÇEKSIZ"
+    "letterLatin": "CHEKSIZ"
   },
   {
     "id": 4467002,
@@ -102,22 +102,22 @@
   {
     "id": 1384,
     "letterCyrill": "ўъ",
-    "letterLatin": "ö"
+    "letterLatin": "o‘"
   },
   {
     "id": 1383,
     "letterCyrill": "ўът",
-    "letterLatin": "öt"
+    "letterLatin": "o‘t"
   },
   {
     "id": 4589250,
     "letterCyrill": "ўЪ",
-    "letterLatin": "ö"
+    "letterLatin": "o‘"
   },
   {
     "id": 4589200,
     "letterCyrill": "Ў[Ъъ]",
-    "letterLatin": "Ö"
+    "letterLatin": "O‘"
   },
   {
     "id": 1571,
@@ -137,27 +137,27 @@
   {
     "id": 1282,
     "letterCyrill": "Че",
-    "letterLatin": "Çe"
+    "letterLatin": "Che"
   },
   {
     "id": 1283,
     "letterCyrill": "че",
-    "letterLatin": "çe"
+    "letterLatin": "che"
   },
   {
     "id": 1598,
     "letterCyrill": "ЧЕ",
-    "letterLatin": "ÇE"
+    "letterLatin": "CHE"
   },
   {
     "id": 1284,
     "letterCyrill": "Ше",
-    "letterLatin": "Şe"
+    "letterLatin": "She"
   },
   {
     "id": 1285,
     "letterCyrill": "ше",
-    "letterLatin": "şe"
+    "letterLatin": "she"
   },
   {
     "id": 1551,
@@ -372,27 +372,27 @@
   {
     "id": 1223,
     "letterCyrill": "Ғе",
-    "letterLatin": "Ğe"
+    "letterLatin": "G‘e"
   },
   {
     "id": 1224,
     "letterCyrill": "ғе",
-    "letterLatin": "ğe"
+    "letterLatin": "g‘e"
   },
   {
     "id": 1599,
     "letterCyrill": "ШЕ",
-    "letterLatin": "ŞE"
+    "letterLatin": "SHE"
   },
   {
     "id": 1575,
     "letterCyrill": "ШЬ",
-    "letterLatin": "Ş"
+    "letterLatin": "Sh"
   },
   {
     "id": 1576,
     "letterCyrill": "Шь",
-    "letterLatin": "Ş"
+    "letterLatin": "Sh"
   },
   {
     "id": 28401,
@@ -402,52 +402,52 @@
   {
     "id": 1581,
     "letterCyrill": "ҒЕ",
-    "letterLatin": "ĞE"
+    "letterLatin": "G‘E"
   },
   {
     "id": 1377,
     "letterCyrill": "ЧЬ",
-    "letterLatin": "Ç"
+    "letterLatin": "Ch"
   },
   {
     "id": 1378,
     "letterCyrill": "Чь",
-    "letterLatin": "Ç"
+    "letterLatin": "Ch"
   },
   {
     "id": 1379,
     "letterCyrill": "чь",
-    "letterLatin": "ç"
+    "letterLatin": "ch"
   },
   {
     "id": 1577,
     "letterCyrill": "шь",
-    "letterLatin": "ş"
+    "letterLatin": "sh"
   },
   {
     "id": 4588950,
     "letterCyrill": "ғЕ",
-    "letterLatin": "ğE"
+    "letterLatin": "g‘E"
   },
   {
     "id": 4589000,
     "letterCyrill": "чЕ",
-    "letterLatin": "çE"
+    "letterLatin": "chE"
   },
   {
     "id": 4589050,
     "letterCyrill": "шЕ",
-    "letterLatin": "şE"
+    "letterLatin": "shE"
   },
   {
     "id": 4589100,
     "letterCyrill": "чЬ",
-    "letterLatin": "ç"
+    "letterLatin": "ch"
   },
   {
     "id": 4589150,
     "letterCyrill": "шЬ",
-    "letterLatin": "ş"
+    "letterLatin": "sh"
   },
   {
     "id": 1374,
@@ -882,7 +882,7 @@
   {
     "id": 1159,
     "letterCyrill": "Ғ",
-    "letterLatin": "Ğ"
+    "letterLatin": "G‘"
   },
   {
     "id": 1180,
@@ -942,7 +942,7 @@
   {
     "id": 1160,
     "letterCyrill": "ғ",
-    "letterLatin": "ğ"
+    "letterLatin": "g‘"
   },
   {
     "id": 1179,
@@ -952,32 +952,32 @@
   {
     "id": 1197,
     "letterCyrill": "Ў",
-    "letterLatin": "Ö"
+    "letterLatin": "O‘"
   },
   {
     "id": 1198,
     "letterCyrill": "ў",
-    "letterLatin": "ö"
+    "letterLatin": "o‘"
   },
   {
     "id": 1205,
     "letterCyrill": "Ч",
-    "letterLatin": "Ç"
+    "letterLatin": "Ch"
   },
   {
     "id": 1206,
     "letterCyrill": "ч",
-    "letterLatin": "ç"
+    "letterLatin": "ch"
   },
   {
     "id": 1207,
     "letterCyrill": "Ш",
-    "letterLatin": "Ş"
+    "letterLatin": "Sh"
   },
   {
     "id": 1208,
     "letterCyrill": "ш",
-    "letterLatin": "ş"
+    "letterLatin": "sh"
   },
   {
     "id": 1181,
@@ -1007,21 +1007,21 @@
   {
     "id": 21952,
     "letterCyrill": "Ш(\\p{Lu})",
-    "letterLatin": "Ş$1"
+    "letterLatin": "SH$1"
   },
   {
     "id": 4447601,
     "letterCyrill": "(\\p{Lu})Ч",
-    "letterLatin": "$1Ç"
+    "letterLatin": "$1CH"
   },
   {
     "id": 83451,
     "letterCyrill": "Ч(\\p{Lu})",
-    "letterLatin": "Ç$1"
+    "letterLatin": "CH$1"
   },
   {
     "id": 21953,
     "letterCyrill": "(\\p{Lu})Ш",
-    "letterLatin": "$1Ş"
+    "letterLatin": "$1SH"
   }
 ]
