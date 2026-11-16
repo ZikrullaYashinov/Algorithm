@@ -1,3 +1,7 @@
+package problems.leetcode.p3364;
+
+import java.util.List;
+
 class Solution {
     public int minimumSumSubarray(List<Integer> nums, int l, int r) {
         int n = nums.size();
